@@ -7,26 +7,25 @@
 		<description></description>      
 		<language>en</language>
 		<item>            
-			<title>0.9.1-beta released</title>
-			<sparkle:releaseNotesLink>https://anysocks.net/release_notes.html#0091</sparkle:releaseNotesLink>
-			<sparkle:version>0.9.1</sparkle:version>
-			<sparkle:channel>beta</sparkle:channel>
-			<pubDate>Sun, 24 Dec 2021 10:48:30 +0000</pubDate>
+			<title>0.9.2-alpha released</title>
+			<sparkle:releaseNotesLink>https://anysocks.net/release_notes.html#0092</sparkle:releaseNotesLink>
+			<sparkle:version>0.9.2</sparkle:version>
+			<pubDate>Thu, 18 Nov 2021 19:40:45 +0000</pubDate>
 			<description><![CDATA[
 			<li>
-			1. <del>Open source and completely free</del>
+			1. Fix multiple UI & Core bugs
 			</li>
 			<li>
-			2. <b>Proxy any network traffic of any app 🚀</b>
+			2. Improve UI accessiblity
 			</li>
 			]]>
 			</description>
 			<enclosure 
-				url="https://www.python.org/ftp/python/3.9.8/python-3.9.8-amd64.exe"
-				length="28908176" 
+				url="https://cdn.jsdelivr.net/gh/anysocks/update@0.9.2-alpha/updater.pkg"
+				length="16434176" 
 				type="application/octet-stream" 
 				sparkle:installerArguments="-update -ppid={{pid}} -base={{base}}"
-				sparkle:edSignature="lzNBnXxXnat4j/L6l0OWcjUtLKBHkX0pu7BJpDqppqV8mJ4DXkaULnmTar+qGZyvscJNvecEp/Fy0YpgzGSQBw=="
+				sparkle:edSignature="n9hH439IGPPSLcXrQBhSaprmB+GfUlJzCZJHZGBLWk0KIAQXTVYq0gyPlHC069JR5Y0kbsQxGzYqFzGAjBJ0Cg=="
 			/>
 		</item>
 	</channel>
