@@ -7,25 +7,28 @@
 		<description></description>      
 		<language>en</language>
 		<item>            
-			<title>0.9.2-alpha released</title>
+			<title>1.0.1-openbeta released</title>
 			<sparkle:releaseNotesLink>https://anysocks.net/release_notes.html#0092</sparkle:releaseNotesLink>
-			<sparkle:version>0.9.2</sparkle:version>
-			<pubDate>Thu, 18 Nov 2021 19:40:45 +0000</pubDate>
+			<sparkle:version>1.0.1</sparkle:version>
+			<pubDate>Tue, 4 Jan 2022 20:40:45 +0000</pubDate>
 			<description><![CDATA[
 			<li>
-			1. Fix multiple UI & Core bugs
+			1. Fix multiple critical bugs found in the previous version
 			</li>
 			<li>
-			2. Improve UI accessiblity
+			2. Now UX has a huge improvement
+			</li>
+			<li>
+			2. Now license system is activated
 			</li>
 			]]>
 			</description>
 			<enclosure 
-				url="https://cdn.jsdelivr.net/gh/anysocks/update@0.9.2-alpha/updater.pkg"
-				length="16434176" 
+				url="https://cdn.jsdelivr.net/gh/anysocks/update@1.0.1-openbeta/updater.pkg"
+				length="12692992" 
 				type="application/octet-stream" 
 				sparkle:installerArguments="-update -ppid={{pid}} -base={{base}}"
-				sparkle:edSignature="n9hH439IGPPSLcXrQBhSaprmB+GfUlJzCZJHZGBLWk0KIAQXTVYq0gyPlHC069JR5Y0kbsQxGzYqFzGAjBJ0Cg=="
+				sparkle:edSignature="YWzHqVtOR//VFyNBYLv5fU/mPhTuEPvEkf2GTe8gMs1+EAQm3R927fQ+lnoG3a9fZK3lZLnxhxKWq8yQ6GisDg=="
 			/>
 		</item>
 	</channel>
