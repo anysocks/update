@@ -7,28 +7,25 @@
 		<description></description>      
 		<language>en</language>
 		<item>            
-			<title>1.0.1-openbeta released</title>
+			<title>1.0.2-openbeta released</title>
 			<sparkle:releaseNotesLink>https://anysocks.net/release_notes.html#0092</sparkle:releaseNotesLink>
-			<sparkle:version>1.0.1</sparkle:version>
-			<pubDate>Tue, 4 Jan 2022 20:40:45 +0000</pubDate>
+			<sparkle:version>1.0.2</sparkle:version>
+			<pubDate>Mon, 10 Jan 2022 18:40:45 +0000</pubDate>
 			<description><![CDATA[
 			<li>
-			1. Fix multiple critical bugs found in the previous version
+			1. Fix the rule name is [N/A] on the activity page
 			</li>
 			<li>
-			2. Now UX has a huge improvement
-			</li>
-			<li>
-			2. Now license system is activated
+			2. Optimized the kernel driver
 			</li>
 			]]>
 			</description>
 			<enclosure 
-				url="https://cdn.jsdelivr.net/gh/anysocks/update@1.0.1-openbeta/updater.pkg"
-				length="12692992" 
+				url="https://cdn.jsdelivr.net/gh/anysocks/update@1.0.2-openbeta/updater.pkg"
+				length="12509184" 
 				type="application/octet-stream" 
 				sparkle:installerArguments="-update -ppid={{pid}} -base={{base}}"
-				sparkle:edSignature="YWzHqVtOR//VFyNBYLv5fU/mPhTuEPvEkf2GTe8gMs1+EAQm3R927fQ+lnoG3a9fZK3lZLnxhxKWq8yQ6GisDg=="
+				sparkle:edSignature="I0rJqTTcpe1wHKfUwdgN7+pLLlZ7oLLoKaEGhJReSUHRvPww4JMWky7pAJn8JKVhYbRGLsrS9NwOnsSWfwGaBw=="
 			/>
 		</item>
 	</channel>
